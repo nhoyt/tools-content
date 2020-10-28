@@ -122,3 +122,13 @@ The A11yFirst Help dialog box contains the following information:
 * How to get started using A11yFirst for CKEditor and why accessibility is important
 * How to work with the A11yFirst features, as well as a few of the standard features included in CKEditor that are important for accessibility
 * The purpose of, and contributors to, the A11yFirst Project
+
+## Resources
+
+Visit the following [CKEditor Plugins](https://ckeditor.com/cke4/addons/plugins/all) pages to download and install the A11yFirst plugins:
+
+* [A11yFirst Heading / Paragraph](https://ckeditor.com/cke4/addon/a11yheading)
+* [A11yFirst Character Style](https://ckeditor.com/cke4/addon/a11ystylescombo)
+* [A11yFirst Link](https://ckeditor.com/cke4/addon/a11ylink)
+* [A11yFirst Image](https://ckeditor.com/cke4/addon/a11yimage)
+* [A11yFirst Help](https://ckeditor.com/cke4/addon/a11yfirsthelp)
