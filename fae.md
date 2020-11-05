@@ -1,4 +1,4 @@
-FAE is a web application that analyzes web pages for compliance with accessibility requirements defined by the [World Wide Web Consortium (W3C)](https://www.w3.org/), and for proper use of accessibility features defined by the current HTML Standard (previously known as HTML5).
+FAE is an [open source](https://opensource.org/osd-annotated) web application that analyzes web pages for compliance with accessibility requirements defined by the [World Wide Web Consortium (W3C)](https://www.w3.org/), and for proper use of accessibility features defined by the current HTML Standard (previously known as HTML5).
 
 ## Web Accessibility Standards
 

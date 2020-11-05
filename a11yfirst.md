@@ -18,7 +18,13 @@ In summary, this can be labeled the _reactive_ approach to accessible authoring.
 
 ## The A11yFirst Project
 
-In contrast to the accessibility checker approach, the A11yFirst Project takes a _proactive_ approach to accessible authoring. It comprises the following modifications to CKEditor, the embedded HTML editor used in CMSs such as Drupal, implemented as installable plugins.
+In contrast to the accessibility checker approach, the A11yFirst Project takes a _proactive_ approach to accessible authoring. A11yFirst is a set of document editing enhancements for CKEditor that promote and encourage _the creation of accessible content as you edit_.
+
+It begins with a reorganization of the editor toolbar to emphasize document structure, as illustrated below:
+
+<img src="https://accessibleit.disability.illinois.edu/wp-content/uploads/2020/11/a11yfirst-toolbar.png">
+
+Additionally, it includes the following modifications to CKEditor, the embedded HTML editor used in CMSs such as Drupal, implemented as installable plugins.
 
 * A11yFirst Heading / Paragraph
 * A11yFirst Character Style

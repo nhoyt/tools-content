@@ -1,4 +1,4 @@
-AInspector WCAG is an add-on for the Firefox browser that, when activated, automatically analyzes the page loaded in the active tab for compliance with accessibility requirements defined by the [World Wide Web Consortium (W3C)](https://www.w3.org/), and for proper use of accessibility features defined by the current HTML Standard (previously known as HTML5).
+AInspector WCAG is an [open source](https://opensource.org/osd-annotated) add-on for the Firefox browser that, when activated, automatically analyzes the page loaded in the active tab for compliance with accessibility requirements defined by the [World Wide Web Consortium (W3C)](https://www.w3.org/), and for proper use of accessibility features defined by the current HTML Standard (previously known as HTML5).
 
 ## Web Accessibility Standards
 
