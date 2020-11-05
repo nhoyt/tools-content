@@ -1,3 +1,5 @@
+<img src="https://accessibleit.disability.illinois.edu/wp-content/uploads/2020/11/a11yfirst-heading.png" alt="screenshot of CKEditor with A11yFirst Heading/Paragraph menu open">
+
 Ten to fifteen years ago (2005 to 2010), the web accessibility community generally agreed that the best approach for making web content more accessible was to focus on educating and increasing awareness of accessibility among web developers, as they were the gatekeepers regarding what was published on the web. If we can inform and educate web developers of accessibility best practices, the thinking went, then a significant portion of the content they were responsible for would be accessible.
 
 ## CMSs and Accessibility Checkers
@@ -22,7 +24,7 @@ In contrast to the accessibility checker approach, the A11yFirst Project takes a
 
 It begins with a reorganization of the editor toolbar to emphasize document structure, as illustrated below:
 
-<img src="https://accessibleit.disability.illinois.edu/wp-content/uploads/2020/11/a11yfirst-toolbar.png">
+<img src="https://accessibleit.disability.illinois.edu/wp-content/uploads/2020/11/a11yfirst-toolbar.png" alt="screenshot of A11yFirst-recommended CKEditor toolbar emphasizing block element editing features">
 
 Additionally, it includes the following modifications to CKEditor, the embedded HTML editor used in CMSs such as Drupal, implemented as installable plugins.
 
